@@ -1,6 +1,6 @@
 # CYP_ML-Model
 ## Description
-CYP_ML-Model is a machine learning model designed to predict crop yields in Kenya based on environmental and agricultural factors, such as rainfall, temperature, and pesticide usage.
+CYP_ML-Model is a machine learning model designed to predict crop yields worldwide based on environmental and agricultural factors, such as rainfall, temperature, and pesticide usage.
 ## Features
 - Predicts crop yield for various regions and crop types.
 - Incorporates environmental factors like rainfall and temperature.
